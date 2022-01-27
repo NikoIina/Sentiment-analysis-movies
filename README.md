@@ -1,6 +1,6 @@
 # Movies reviews sentiment prediction
 
-The aim of this project is to build a model that can predict sentiment of a review from it's contents. For this I will be using IMDB dataset and Natural Language Toolkit (NLTK). I will use Numpy and Pandas for adjust data and scikit-learn for word extraction and model building.
+The aim of this project is to build a model that can predict sentiment of a review from it's contents. For this I will be using IMDB dataset and Natural Language Toolkit (NLTK). I will use Numpy and Pandas for data manipulation and scikit-learn for word extraction and model building.
 
 # Предсказание настроений в обзорах фильмов
 
